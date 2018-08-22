@@ -1,0 +1,7 @@
+C:\Users\Martin Ploompuu\source\repos\Caffè\Caffè\bin\Debug\Caffè.exe.config
+C:\Users\Martin Ploompuu\source\repos\Caffè\Caffè\bin\Debug\Caffè.exe
+C:\Users\Martin Ploompuu\source\repos\Caffè\Caffè\bin\Debug\Caffè.pdb
+C:\Users\Martin Ploompuu\source\repos\Caffè\Caffè\obj\Debug\Caffè.csprojAssemblyReference.cache
+C:\Users\Martin Ploompuu\source\repos\Caffè\Caffè\obj\Debug\Caffè.csproj.CoreCompileInputs.cache
+C:\Users\Martin Ploompuu\source\repos\Caffè\Caffè\obj\Debug\Caffè.exe
+C:\Users\Martin Ploompuu\source\repos\Caffè\Caffè\obj\Debug\Caffè.pdb
